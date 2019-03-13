@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\bin\Debug\suruculer.exe.config
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\bin\Debug\suruculer.exe
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\bin\Debug\suruculer.pdb
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\bin\Debug\suruculer.xml
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.vbprojAssemblyReference.cache
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.SurucuBılgıleriFormu.resources
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.Resources.resources
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.vbproj.GenerateResource.cache
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.exe
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.xml
+\\Mac\Home\Desktop\visualstudio\wpfApp\suruculer\suruculer\obj\Debug\suruculer.pdb
